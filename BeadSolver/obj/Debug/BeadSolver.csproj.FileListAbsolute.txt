@@ -1,0 +1,7 @@
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\bin\Debug\BeadSolver.exe.config
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\bin\Debug\BeadSolver.exe
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\bin\Debug\BeadSolver.pdb
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\obj\Debug\BeadSolver.csprojAssemblyReference.cache
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\obj\Debug\BeadSolver.csproj.CoreCompileInputs.cache
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\obj\Debug\BeadSolver.exe
+C:\Users\Richard Worhatch\source\repos\BeadSolver\BeadSolver\obj\Debug\BeadSolver.pdb
